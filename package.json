@@ -11,5 +11,8 @@
     "tutor"
   ],
   "author": "menory",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
 }
